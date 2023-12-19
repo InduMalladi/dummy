@@ -1,0 +1,19 @@
+body{ background-image: url('https://media.istockphoto.com/id/516379821/photo/business-man.jpg?s=612x612&w=0&k=20&c=l69gZZ3trWgx_BIbErRUihUoIIHMxaZp3LwqOxb3SNA=') ;
+    background-repeat: no-repeat;
+    background-size:cover;
+  background-position: center; 
+  
+
+    h1{
+        color:black;
+        text-align:center;
+
+    }
+    table ,tr{
+        margin:50px;
+        border-color:red;
+        border-style:solid;
+        padding: 50px;
+
+    }
+}
